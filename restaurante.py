@@ -68,3 +68,6 @@ lista_clientes.delete()
 # Calculando e imprimindo a nova média
 media = lista_clientes.calcular_media()
 print("Nova média após a remoção de um cliente:", media)
+ 
+
+ 
