@@ -47,7 +47,6 @@ Valor da conta: R$ 90.00
 
 Média de consumo por cliente: R$ 105.00
 
-
 ---
 
 ## 🚀 Como Executar
@@ -56,8 +55,10 @@ Média de consumo por cliente: R$ 105.00
 2. Clone este repositório ou salve o arquivo `.py`.
 3. Execute no terminal com:
 
-```bash
+bash
 python app_restaurante.py
+
+---
 
 ## 👨‍🎓 Autor
 Paulo Roberto Marinato
